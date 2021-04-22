@@ -1,1 +1,10 @@
 B22 LEARNING GIT
+
+Yay we made first commit 
+Commit is almost like taking 
+a picture of the changes 
+at certain moment compared 
+to previous moment 
+
+It contains the chnages you made
+and the author of the changes 
